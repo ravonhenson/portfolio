@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000000;
+
+}
+
+h1 {
+  position: absolute;
+  font-size: 2em;
+  display: block;
+  text-align: center;
+  color: #ffffff;
+}
